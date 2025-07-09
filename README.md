@@ -27,3 +27,24 @@ This simple game challenges players to guess a randomly generated number while r
 
 ```bash
 python index.py
+
+
+🛠️ How It Works
+The computer selects a random number within a specified range.
+
+You try to guess the number, and the system tells you if you're too high or too low.
+
+The game keeps track of your attempts.
+
+Optionally replay or exit after each round.
+
+
+🎮 Demo
+
+I'm thinking of a number between 1 and 100.
+Take a guess: 50
+Too low!
+Take a guess: 75
+Too high!
+Take a guess: 63
+Correct! You got it in 3 tries.
