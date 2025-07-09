@@ -26,4 +26,4 @@ This simple game challenges players to guess a randomly generated number while r
 ### Run the Game
 
 ```bash
-python guess_the_number.py
+python index.py
